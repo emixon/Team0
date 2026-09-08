@@ -1,7 +1,7 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [Report Template],
+  title: [U.S. Army Building Condition Prediction],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
@@ -19,6 +19,13 @@
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
       email: "jm128@illinois.edu",
+    ),
+    (
+      name: "Julian Hwang",
+      department: [Department of Civil and Environmental Engineering],
+      organization: [University of Illinois Urbana-Champaign],
+      location: [Urbana, IL, USA],
+      email: "jzhwang3@illinois.edu",
     ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
