@@ -27,13 +27,6 @@
       location: [Urbana, IL, USA],
       email: "jzhwang3@illinois.edu",
     ),
-     (
-      name: "Julian Hwang",
-      department: [Department of Civil and Environmental Engineering],
-      organization: [University of Illinois Urbana-Champaign],
-      location: [Urbana, IL, USA],
-      email: "jzhwang3@illinois.edu",
-    ),
   ),
   index-terms: ("Optional", "Keywords", "Here"),
   bibliography: bibliography("refs.bib"),
