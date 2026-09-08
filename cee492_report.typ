@@ -1,17 +1,17 @@
 #import "@preview/charged-ieee:0.1.4": ieee
 
 #show: ieee.with(
-  title: [U.S. Army Building Condition Prediction],
+  title: [Building Condition Prediction],
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
-      name: "Author 1",
-      department: [Department 1],
+      name: "Eric Mixon",
+      department: [Department of Civil and Environmental Engineering],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "ermixon2@illinois.edu",
     ),
     (
       name: "Juliana Marks",
